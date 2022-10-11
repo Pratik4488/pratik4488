@@ -1,16 +1,16 @@
 ### Hi there 👋  
-### I'm a Full-Stack/ MERN Developer.  
+### I'm a Full-Stack/ MERN Developer and open for part-time job/ full-time internship opportunity.   
 
 A final-year B-tech student at IIIT Bhubaneswar who is enthusiastic in DevOps technology   
 
 
 
 With expertise in ReactJs, NodeJs, ExpressJs, NoSQL DB (MongoDB), SQL DB (MySQL),  
-Mongoose, problem solving, Java Programming, UI/UX designing, Photoshop.
+Mongoose, problem solving, Java Programming, UI/UX designing.
 
 Techs used:  
 Git/ Github, Postman, Thunder-Client, Live share, Heroku, Netlify, Digital Ocean,  
-MongoDB compass, Mysql workbench, MongoDB atlas.   
+MongoDB compass, Mysql workbench, MongoDB atlas, Figma, Photoshop.   
 
 
 📫 How to reach me: ...  
